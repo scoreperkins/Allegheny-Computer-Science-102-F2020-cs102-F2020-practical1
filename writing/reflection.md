@@ -8,7 +8,7 @@ TODO: Please provide a fenced code block that demonstrates one run of your progr
 
 - `cd converter`: TODO explain this command
 - `poetry install`: TODO explain this command
-- `cd ..`: TODO explain this command
+- `cd ..`: The command cd .. moves us back to the parent directory of the current directory.
 
 ## Please use one paragraph to explain the meaning of the following code segment
 
